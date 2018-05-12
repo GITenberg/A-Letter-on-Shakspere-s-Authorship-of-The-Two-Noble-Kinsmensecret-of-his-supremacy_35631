@@ -1,0 +1,44 @@
+_repo: A-Letter-on-Shakspere-s-Authorship-of-The-Two-Noble-Kinsmensecret-of-his-supremacy_35631
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Furnivall, Frederick James
+    alias: Furnivall, F. J. (Frederick James)
+    birthdate: 1825
+    deathdate: 1910
+    gutenberg_agent_id: '5672'
+    url: http://www.gutenberg.org/2009/agents/5672
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_James_Furnivall
+  contributor:
+    agent_name: Burton, John Hill
+    birthdate: &id001 1809
+    deathdate: 1881
+    gutenberg_agent_id: '25134'
+    url: http://www.gutenberg.org/2009/agents/25134
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Spalding, William
+    birthdate: *id001
+    deathdate: 1859
+    gutenberg_agent_id: '37783'
+    url: http://www.gutenberg.org/2009/agents/37783
+description: ''
+gutenberg_issued: '2011-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35631'
+  lccn: '16024988'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fletcher, John, 1579-1625. Two noble kinsmen'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Authorship'
+- !lcc 'PR'
+title: "A Letter on Shakspere's Authorship of The Two Noble Kinsmen\r\nand on the\
+  \ characteristics of Shakspere's style and the secret of his supremacy"
+url: http://www.gutenberg.org/ebooks/35631
