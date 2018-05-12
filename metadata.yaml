@@ -11,7 +11,7 @@ contributor:
     wikipedia: http://en.wikipedia.org/wiki/Frederick_James_Furnivall
   contributor:
     agent_name: Burton, John Hill
-    birthdate: &id001 1809
+    birthdate: 1809
     deathdate: 1881
     gutenberg_agent_id: '25134'
     url: http://www.gutenberg.org/2009/agents/25134
@@ -21,11 +21,13 @@ covers:
 creator:
   author:
     agent_name: Spalding, William
-    birthdate: *id001
+    birthdate: 1809
     deathdate: 1859
     gutenberg_agent_id: '37783'
     url: http://www.gutenberg.org/2009/agents/37783
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35631#A-Letter-on-Shakspere-s-Authorship-of-The-Two-Noble-Kinsmensecret-of-his-supremacy
 gutenberg_issued: '2011-03-19'
 gutenberg_type: Text
 identifiers:
